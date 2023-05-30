@@ -22,8 +22,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-alert("Eu também te amo e aceito casar com vc! :)")
-}  
+window.open("https://www.youtube.com/watch?v=mKzOOE-qXSg")}
 
 function not() {
 alert("Você nem ta maluca de não aceitar, volte lá e clique no sim! :/")
