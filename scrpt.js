@@ -22,7 +22,7 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   }
 
 function tanks() {
-window.open("https://www.youtube.com/watch?v=mKzOOE-qXSg")}
+window.open("https://youtu.be/izGwDsrQ1eQ")}
 
 function not() {
 alert("Você nem ta maluca de não aceitar, volte lá e clique no sim! :/")
